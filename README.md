@@ -1,7 +1,9 @@
 # Amex---Analyize-this-2017
 Data science challenge
 
-Problem Statement
+Problem Statement:
+
+We have to predict the top 1000 customer ids which are more likely to accept the card offered by the company and predict which card should be offered to whom.
 
 The main operational expense for the bank is each call made to customers. One call increases expense by $6. On each call the bank advises only one card offer: Elite card, Supplementary card or Credit Card.
 
