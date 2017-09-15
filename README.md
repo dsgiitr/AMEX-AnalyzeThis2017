@@ -1,10 +1,10 @@
 # Amex-Analyize-this-2017
-Data science challenge
+## Data science challenge
 
--<b>Team Name</b>: Data_Targaryens
--<b>Team Members</b>: Harsh Singhal | Gaurav Jindal
--<b>Achievement</b>: 3rd Rank
--<b>Public LB Score</b>: 44300
+ *<b>Team Name</b>: Data_Targaryens
+ *<b>Team Members</b>: Harsh Singhal | Gaurav Jindal
+ *<b>Achievement</b>: 3rd Rank
+ *<b>Public LB Score</b>: 44300
 
 Problem Statement:
 
