@@ -1,0 +1,53 @@
+Variable,Description
+cm_key,Unique customer identifier
+mvar1,Card product type
+mvar2,Family Size
+mvar3,Customer spending capacity. 0 = No data available
+mvar4,Number of total cards (including estimated external) active in the last yaer
+mvar5,Number of months the Account has been set up.
+mvar6,Total club memberhship fees in the last one year
+mvar7,Internal score for affinity towards high spend
+mvar8,Internal influencer score
+mvar9,Income. 0 = No data available
+mvar10,Platinum card indicator
+mvar11,Internal probability score for affinity towards busniess expenditure
+mvar12,Industry code in which the customer has spent the most in past. (Including estimated external).
+mvar13,Number of times the customer has made payments against the card in the last 1 year
+mvar14,Number of club memberships
+mvar15,Number of air miles memberships
+mvar16,Electronics related spend in quarter 1
+mvar17,Electronics related spend in quarter 2
+mvar18,Electronics related spend in quarter 3
+mvar19,Electronics related spend in quarter 4
+mvar20,Travel related spend in quarter 1
+mvar21,Travel related spend in quarter 2
+mvar22,Travel related spend in quarter 3
+mvar23,Travel related spend in quarter 4
+mvar24,Household spend in quarter 1
+mvar25,Household spend in quarter 2
+mvar26,Household spend in quarter 3
+mvar27,Household spend in quarter 4
+mvar28,Car related spend in quarter 1
+mvar29,Car related spend in quarter 2
+mvar30,Car related spend in quarter 3
+mvar31,Car related spend in quarter 4
+mvar32,Retail spend in quarter 1
+mvar33,Retail spend in quarter 2
+mvar34,Retail spend in quarter 3
+mvar35,Retail spend in quarter 4
+mvar36,Total Spend in quarter 1
+mvar37,Total Spend in quarter 2
+mvar38,Total Spend in quarter 3
+mvar39,Total Spend in quarter 4
+mvar40,Number of times the customer was extended supp offers in the last year
+mvar41,Number of times the customer was extended elite card offers in the last year
+mvar42,Number of times the customer was extended credit card offers in the last year
+mvar43,Number of times the customer accepted supp offers in the last year
+mvar44,Number of times the customer accepted elite card offers in the last year
+mvar45,Number of times the customer accepted credit card offers in the last year
+mvar46,Indicator for extension of Supp card offer
+mvar47,Indicator for extension of Elite card offer
+mvar48,Indicator for extension of Credit card offer
+mvar49,Indicator for acceptance of Supp card offer
+mvar50,Indicator for acceptance of Elite card offer
+mvar51,Indicator for acceptance of Credit card offer
