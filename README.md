@@ -6,7 +6,7 @@
  * #### Achievement: 3rd Rank
  * #### Public LB Score: 44300
 
-Problem Statement:
+## Problem Statement:
 
 In this challenge, we have to predict the top 1000 potential customer ids which are more likely to accept the card offered by the company and predict which card should be offered to whom.
 
