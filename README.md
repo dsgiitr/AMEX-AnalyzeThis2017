@@ -1,8 +1,10 @@
 # Amex-Analyize-this-2017
 Data science challenge
 
-The model scored 44500 on the public LB which lead us to rank 3 after the combinination with the private LB score.
-
+<b>Team Name </b>: Data_Targaryens
+Team Members: Harsh Singhal | Gaurav Jindal
+Achievement: 3rd Rank
+Public LB Score: 44300
 
 Problem Statement:
 
