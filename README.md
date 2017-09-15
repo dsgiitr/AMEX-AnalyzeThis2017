@@ -1,8 +1,6 @@
 # Amex-Analyize-this-2017
 Data science challenge
 
-Knocktober hackathon on Analytics Vidhya
-
 The model scored 44500 on the public LB which lead us to rank 3 after the combinination with the private LB score.
 
 
